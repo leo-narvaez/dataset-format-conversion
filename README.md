@@ -1,5 +1,7 @@
 # Análisis de Formatos de Almacenamiento para Datos de Retrasos en Vuelos
 
+![notebook](https://github.com/user-attachments/assets/75d6b9f7-d773-4698-a574-2f4691da8644)
+
 Este proyecto tiene como objetivo realizar un análisis de diferentes formatos de almacenamiento para los datos de retrasos en los vuelos de 2018. A lo largo del notebook, se exploran y comparan varios formatos como **Parquet**, **ORC**, **Snappy-ORC**, y **Avro**, enfocados en dos aspectos clave:
 
 1. **Tamaño de los archivos** generados.
