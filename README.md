@@ -17,6 +17,8 @@ Los archivos generados incluyen:
 
 Además, se ha medido el **tiempo de creación** y el **tamaño** de cada archivo para comparar la eficiencia de los diferentes formatos.
 
+
+
 ## Archivos Generados
 
 Los siguientes archivos fueron generados y almacenados en el directorio de salida `/kaggle/working/`:
@@ -40,6 +42,15 @@ Para ejecutar este notebook, asegúrate de tener instalados los siguientes paque
 - `time`
 
 Además, necesitarás tener una cuenta de **Kaggle** y acceso al dataset de **Airline Delay and Cancellation Data**.
+
+
+## Guía Paso a Paso
+
+Si deseas ver el **paso a paso** de cómo realicé este análisis y transformación de datos en Kaggle, he preparado una guía detallada en mi **[portfolio personal](https://leonardonarvaez.com/blog/detail/ejercicio-de-transformacion-de-datos-en-kaggle-analisis-de-retrasos-en-vuelos/)**. 
+
+En esta guía podrás encontrar información adicional y detalles sobre el proceso, desde la carga de datos hasta la conversión a diferentes formatos de almacenamiento.
+
+¡Espero que te sea útil!
 
 ## Instrucciones para Ejecutar el Notebook
 
