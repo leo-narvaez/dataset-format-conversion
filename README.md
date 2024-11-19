@@ -47,11 +47,12 @@ Además, necesitarás tener una cuenta de **Kaggle** y acceso al dataset de **Ai
 
    ```bash
    git clone https://github.com/leo-narvaez/dataset-format-conversion.git
-
+   ```
 
 2. **Sube el notebook y los archivos necesarios a tu entorno de Kaggle.**
    
-3. **Cargar el dataset**: Asegúrate de que el archivo `2018.csv` (o cualquier otro año que prefieras) esté correctamente cargado en tu entorno. El archivo debe estar en el directorio de **Inputs** de Kaggle.
+3. **Cargar el dataset**: Asegúrate de que el archivo `2018.csv` (o cualquier otro año que prefieras) esté correctamente cargado en tu entorno. El archivo debe estar en el directorio de **Inputs** de Kaggle. Puedes descargar el contenido aquí: [Dataset de Retrasos de Vuelos en Kaggle](https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018)
+
 
 4. **Ejecutar el Notebook**: Puedes ejecutar cada celda del notebook para:
    - Leer y cargar el dataset CSV.
